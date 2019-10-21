@@ -4,6 +4,7 @@ body{
   font-family: helv;
   overflow-x: hidden;
   color: white;
+  width: 100vw;
 }
 * {
   -webkit-font-smoothing: antialiased;
