@@ -334,12 +334,15 @@ a:visited{
   }
   .subtitle{
     font-size: 1.7em;
-    line-height: 3.3rem
+    line-height: 2.9rem
   }
   .regularText{
     font-family:helv;
     line-height: 2;
     font-size: 1.1em;
+  }
+  .quote{
+    line-height: 2;
   }
   .regularText2{
     font-family:helv;
