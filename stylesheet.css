@@ -235,17 +235,17 @@ a:visited{
 .c1 {
   margin-left: 100%;
   transform: translateX(-70vh) translateY(-35vh);
+  z-index: 0;
 }
 .c2{
-  transform: translateX(-50vh) translateY(-40vh);
+  transform: translateX(-50vh) translateY(-20vh);
 }
 .c3{
   margin-left: 100%;
-  transform: translateX(-50vh) translateY(20vh);
+  transform: translateX(-50vh) translateY(110vh);
 }
 .c4{
-  margin-left: 10%;
-  transform: translateX(90vh) translateY(140vh);
+  transform: translateX(-20vh) translateY(300vh);
 }
 
 
@@ -350,7 +350,6 @@ a:visited{
     font-size: 1.1em;
     color: black;
   }
-
 }
 
 
