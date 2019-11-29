@@ -334,7 +334,18 @@ a:visited{
   }
   .subtitle{
     font-size: 1.7em;
-    line-height: 3.5rem
+    line-height: 3.3rem
+  }
+  .regularText{
+    font-family:helv;
+    line-height: 2;
+    font-size: 1.1em;
+  }
+  .regularText2{
+    font-family:helv;
+    line-height: 1.4;
+    font-size: 1.1em;
+    color: black;
   }
 
 }
