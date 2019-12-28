@@ -49,10 +49,10 @@ b{
 .subtitle{
   font-weight: 200;
   font-size: 2.5em;
-  line-height: 4rem;
+  line-height: 2rem;
 }
 .quote{
-  line-height: 3;
+  line-height: 1.5;
   font-weight: 150;
   text-align: right;
   color: #E4E4E4;
@@ -60,12 +60,12 @@ b{
 }
 .regularText{
   font-family:helv;
-  line-height: 3;
+  line-height: 2;
   font-size: 1.1em;
 }
 .regularText2{
   font-family:helv;
-  line-height: 1.8;
+  line-height: 1.5;
   font-size: 1.1em;
   color: black;
 }
